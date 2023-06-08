@@ -4,3 +4,7 @@
 
 layout: home
 ---
+# Biography
+# Interests
+# Education
+# Skills
